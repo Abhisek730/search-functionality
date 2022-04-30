@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#searchBar{
+    width: 70%;
+    margin: 10px 15%;
+    padding: 10px;
+    border-radius: 10px;
+    background: none;
+    border: 2px solid white;
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+    letter-spacing: 1px;  
+}
+
+#List{
+    margin-left: 10%;
+    font-size: 1.5rem;
+}
